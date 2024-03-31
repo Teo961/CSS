@@ -1,0 +1,44 @@
+/*
+slector: el elemento al que se le va a plicar estilos
+Propiedad: lo que se va a cambiar
+Valor: el nuevo valor que va a tener
+Propiedad: valor -> se le denomina declaración
+Regla: al conjunto de selector + declaracion (es)
+*/
+
+
+/* 
+selectores simples 
+    elementales
+    de atributos
+
+selectores cmpuestos
+    agrupados
+    combinadores
+    pseudoclases
+    pseudoelementos
+*/
+
+/* Selectores elementales:
+        UNIVERSAL: con asterizco y llaves
+*/
+/* *{
+    background-color: rgb(241, 238, 238);
+}
+h1{
+    background-color: rgb(228, 244, 171);
+}
+p{
+    background-color: rgb(146, 209, 248);
+} */
+
+#title{
+    background-color: rgb(222, 137, 32);
+}
+.title{
+    background-color: lightsalmon;
+}
+
+.text{
+    background-color: lightgreen;
+}
