@@ -42,3 +42,7 @@ p{
 .text{
     background-color: lightgreen;
 }
+
+[href]{
+    background-color: blue;
+}
