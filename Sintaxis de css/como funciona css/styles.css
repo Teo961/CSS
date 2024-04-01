@@ -1,0 +1,32 @@
+/* ¿cómo funciona css?
+especificidad -> establece como de especifico es un slector para saber que estilo aplicar
+El cálculo se realiza con la siguiente fórmula: 
+    cascad
+    Herencia
+*/
+h1{
+    background-color: red;
+}
+
+/* .title{
+    background-color: blue;
+}
+
+#title{
+    background-color: greenyellow;
+}
+h1.title{
+    background-color: yellow;
+}
+h1#title{
+    background-color: teal;
+}
+
+h1.title#title{
+    background-color: tomato; 
+}*/
+
+
+
+
+
