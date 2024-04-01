@@ -46,3 +46,49 @@ p{
 [href]{
     background-color: blue;
 }
+
+[href^="color"]{
+    background-color: red;
+}
+
+[href*="color"]{
+    background-color: brown;
+}
+
+/* 
+.text{
+    background-color: steelblue;
+}
+.text1{
+    background-color: steelblue;
+}
+.text2{
+    background-color: steelblue;
+}
+.text3{
+    background-color: rgb(243, 245, 246);
+}
+.text4{
+    background-color: steelblue;
+} */
+.text, .text2, .text3, .text4{
+    background-color: rgb(249, 150, 19);
+}
+
+/* h2{
+    background-color: teal;
+} */
+div .title-2{
+    background-color: aquamarine;
+
+}
+.text4 + .title-2{
+    background-color: tomato;
+}
+.text3 ~ p{
+    background-color: rgb(246, 253, 253);
+}
+
+
+
+
