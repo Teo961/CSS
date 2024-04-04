@@ -26,6 +26,17 @@ h1.title#title{
     background-color: tomato; 
 }*/
 
+h1.title#title{
+    background-color: blue;
+}
+
+h1.title{
+    background-color: yellow !important;
+}
+.title{
+    background-color: teal;
+}
+
 
 
 
